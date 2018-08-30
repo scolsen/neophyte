@@ -1,0 +1,3 @@
+class moveable:
+
+    def bolt
